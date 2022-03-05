@@ -11,3 +11,9 @@
 ```cp rdp.py ../```
 
 ```python3 rdp.py or python rdp.py```
+
+```sh-session
+npm install discord.js
+yarn add discord.js
+pnpm add discord.js
+```
