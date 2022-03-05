@@ -1,14 +1,14 @@
-****CLOUD RDP****
-<hr>
-# <b>Command</b>
+**CLOUD RDP*"
 
-## wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+> Commands
 
-## git clone https://github.com/Avax00/Google-cloud-shell-RDP
+# wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 
-## cd Google-cloud-shell-RDP
+# git clone https://github.com/Avax00/Google-cloud-shell-RDP
 
-## cp rdp.py ../
+# cd Google-cloud-shell-RDP
 
-## python3 rdp.py or python rdp.py
+#  cp rdp.py ../
+
+# python3 rdp.py or python rdp.py
 
