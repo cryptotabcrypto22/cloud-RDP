@@ -17,8 +17,6 @@ cmd = 'sudo apt-get install vim-gtk3 -y'
 os.system(cmd)
 cmd = 'sudo apt install iputils-ping -y'
 os.sytem(cmd)
-cmd = 'sudo apt install --assume-yes task-xfce-desktop'
-os.sytem(cmd)
 cmd = 'sudo apt install obs-studio'
 os.sytem(cmd)
 print("link https://remotedesktop.google.com/access")
