@@ -9,8 +9,8 @@ cd Google-cloud-shell-RDP
 cp rdp.py ../
 python3 rdp.py or python rdp.py
 ```
-
-> After installing paste Debain Linux command
+> click begin , click before , click authorize
+> paste Debain Linux command
 `` Press enter``
 
 
