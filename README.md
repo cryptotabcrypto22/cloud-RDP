@@ -17,3 +17,4 @@ python3 rdp.py or python rdp.py
 - Ram 7gb
 - 15gb disk
 - use command to install
+- [Gcloud console](https://console.cloud.google.com)
