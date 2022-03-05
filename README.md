@@ -1,4 +1,4 @@
-**CLOUD RDP**
+# CLOUD RDP
 > ADITYA TECH
 > Subscribe
 
@@ -9,3 +9,12 @@ cd Google-cloud-shell-RDP
 cp rdp.py ../
 python3 rdp.py or python rdp.py
 ```
+
+> After installing paste Debain Linux command
+`` Press enter``
+
+
+> Google cloud shell
+- Ram 7gb
+- 15gb disk
+- use command to install
