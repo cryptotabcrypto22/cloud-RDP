@@ -13,6 +13,7 @@ python3 rdp.py or python rdp.py
 > paste Debain Linux command
 `` Press enter``
 
+- use if you want
 > Google cloud shell
 - Ram 7gb
 - 15gb disk
