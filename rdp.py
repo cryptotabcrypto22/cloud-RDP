@@ -19,4 +19,11 @@ cmd = 'sudo apt install iputils-ping -y'
 os.sytem(cmd)
 cmd = 'sudo apt install obs-studio'
 os.sytem(cmd)
+cmd = 'sudo add-apt-repository universe'
+os.sytem(cmd)
+cmd = 'sudo apt install wireshark'
+os.sytem(cmd)
+cmd = 'sudo add-apt-repository ppa:ubuntuhandbook1/apps'
+os.sytem(cmd)
+cmd = 'sudo apt install vokoscreen-ng'
 print("link https://remotedesktop.google.com/access")
