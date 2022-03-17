@@ -16,6 +16,8 @@ os.system(cmd)
 cmd = 'sudo apt-get install vim-gtk3 -y'
 os.system(cmd)
 cmd = 'sudo apt install iputils-ping -y'
+os.system(cmd)
+cmd = 'sudo apt update'
 os.sytem(cmd)
 cmd = 'sudo apt install obs-studio'
 os.sytem(cmd)
