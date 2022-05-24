@@ -1,0 +1,10 @@
+{
+  "name": "RDP-Cloud",
+  "description": "Deploy Template to Heroku.",
+  "keywords": ["RDP-Cloud", "Docker"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
