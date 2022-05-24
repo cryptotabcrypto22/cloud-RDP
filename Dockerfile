@@ -7,5 +7,4 @@ RUN apt install python3.8 -y
 RUN wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 RUN git clone https://github.com/Avax00/cloud-RDP
 RUN cd cloud-RDP
-RUN rdp.py
-#RUN python3 rdp.py
+RUN /bin/sh -c rdp.py
